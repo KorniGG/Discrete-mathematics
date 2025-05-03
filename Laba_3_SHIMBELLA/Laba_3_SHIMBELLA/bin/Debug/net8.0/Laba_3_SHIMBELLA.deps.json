@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Laba_3_SHIMBELLA/1.0.0": {
+        "runtime": {
+          "Laba_3_SHIMBELLA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laba_3_SHIMBELLA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
